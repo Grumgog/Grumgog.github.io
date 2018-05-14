@@ -1,0 +1,8 @@
+.descriptionBlock{
+    background-color: rgb(0, 0, 139, 60);
+    opacity: 0.7;
+    display: inline-block;
+    width: 12%;
+    text-align: center;
+    color: aliceblue;
+}
