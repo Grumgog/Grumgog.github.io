@@ -1,2 +1,2 @@
 # Grumgog.github.io
-site?
+[Сайт](Grumgog.github.io) для [Emula80](https://github.com/Grumgog/Emula80)
